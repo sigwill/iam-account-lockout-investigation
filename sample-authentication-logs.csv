@@ -1,0 +1,7 @@
+time,event_id,source,account,observation,source_ip,data_classification
+09:14:02,4625,WS-014,jsmith,Failed authentication,10.0.1.24,SIMULATED
+09:14:15,4625,WS-014,jsmith,Failed authentication,10.0.1.24,SIMULATED
+09:14:29,4625,WS-014,jsmith,Failed authentication,10.0.1.24,SIMULATED
+09:14:31,4740,DC-01,jsmith,Account lockout recorded,,SIMULATED
+09:15:05,4625,WS-014,jsmith,Additional failed authentication,10.0.1.24,SIMULATED
+09:17:44,4625,UNKNOWN,jsmith,Failed authentication from unfamiliar source,203.0.113.42,SIMULATED
